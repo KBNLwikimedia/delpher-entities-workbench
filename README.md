@@ -1,10 +1,10 @@
 # Delpher entities workbench
 
 [![Issues](https://img.shields.io/github/issues/KBNLwikimedia/delpher-entities-workbench?label=issues&color=00857b)](https://github.com/KBNLwikimedia/delpher-entities-workbench/issues)
-[![Licence](https://img.shields.io/badge/licence-MIT-00857b)](LICENSE)
+[![Licence](https://img.shields.io/github/license/KBNLwikimedia/delpher-entities-workbench?label=licence&color=00857b)](LICENSE)
 [![Data](https://img.shields.io/badge/data-Delpher%20%2F%20KB-01415b)](https://www.delpher.nl)
 [![Reconciled with](https://img.shields.io/badge/reconciled%20with-Wikidata-990000)](https://www.wikidata.org)
-[![Prepared for](https://img.shields.io/badge/prepared%20for-hackaLOD%202026-b23a53)](https://netwerkdigitaalerfgoed.nl/hackalod/)
+[![Prepared for](https://img.shields.io/badge/prepared%20for-HackaLOD%202026-b23a53)](https://netwerkdigitaalerfgoed.nl/hackalod/)
 
 <p align="center">
   <a href="https://www.delpher.nl" title="Delpher"><picture>
@@ -17,7 +17,7 @@
     <img src="readme-assets/kb-logo.svg" alt="KB, nationale bibliotheek" height="46">
   </picture></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://netwerkdigitaalerfgoed.nl/hackalod/" title="hackaLOD 2026, Middelburg"><img src="readme-assets/hackalod-logo.jpg" alt="hackaLOD 2026" height="56"></a>
+  <a href="https://netwerkdigitaalerfgoed.nl/hackalod/" title="HackaLOD 2026, Middelburg"><img src="readme-assets/hackalod-logo.jpg" alt="HackaLOD 2026" height="56"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="readme-assets/wikidata-stamp.png" alt="Powered by Wikidata" height="52"></a>
 </p>
@@ -34,7 +34,7 @@ item for each, and puts the result in a browsable workbench where you confirm,
 correct, merge, split, rename or link them. Every decision is recorded, dated
 and reversible.
 
-Built as preparation for [hackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/)
+Built as preparation for [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/)
 (Middelburg), the Dutch cultural-heritage / Linked Open Data hackathon run by
 Netwerk Digitaal Erfgoed. Its first corpus is the **Siboga expeditie**, the
 1899–1900 Dutch marine research expedition through the Indonesian archipelago.
@@ -73,4 +73,5 @@ against Wikidata, which is CC0.
 
 ## Licence
 
-Code is [MIT](LICENSE). Harvested content remains subject to Delpher/KB's terms.
+The code is released under the terms in [LICENSE](LICENSE). Harvested content
+remains subject to Delpher/KB's own terms.

@@ -4,22 +4,22 @@
 [![Licence](https://img.shields.io/badge/licence-MIT-00857b)](LICENSE)
 [![Data](https://img.shields.io/badge/data-Delpher%20%2F%20KB-01415b)](https://www.delpher.nl)
 [![Reconciled with](https://img.shields.io/badge/reconciled%20with-Wikidata-990000)](https://www.wikidata.org)
-[![Prepared for](https://img.shields.io/badge/prepared%20for-hackaLOD%202026-ef6079)](https://netwerkdigitaalerfgoed.nl/hackalod/)
+[![Prepared for](https://img.shields.io/badge/prepared%20for-hackaLOD%202026-b23a53)](https://netwerkdigitaalerfgoed.nl/hackalod/)
 
 <p align="center">
   <a href="https://www.delpher.nl" title="Delpher"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/delpher-logo-dark.svg">
-    <img src="readme-assets/delpher-logo.svg" alt="Delpher" height="30">
+    <img src="readme-assets/delpher-logo.svg" alt="Delpher" height="54">
   </picture></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.kb.nl" title="KB, nationale bibliotheek"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/kb-logo-dark.svg">
-    <img src="readme-assets/kb-logo.svg" alt="KB, nationale bibliotheek" height="26">
+    <img src="readme-assets/kb-logo.svg" alt="KB, nationale bibliotheek" height="46">
   </picture></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://netwerkdigitaalerfgoed.nl/hackalod/" title="hackaLOD 2026, Middelburg"><img src="readme-assets/hackalod-logo.jpg" alt="hackaLOD 2026" height="34"></a>
+  <a href="https://netwerkdigitaalerfgoed.nl/hackalod/" title="hackaLOD 2026, Middelburg"><img src="readme-assets/hackalod-logo.jpg" alt="hackaLOD 2026" height="56"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="readme-assets/wikidata-stamp.png" alt="Powered by Wikidata" height="34"></a>
+  <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="readme-assets/wikidata-stamp.png" alt="Powered by Wikidata" height="52"></a>
 </p>
 
 Finding named entities — people, ships, species, places, organisations — in

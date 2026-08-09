@@ -129,3 +129,8 @@ against Wikidata, which is CC0.
 
 The code is released under the terms in [LICENSE](LICENSE). Harvested content
 remains subject to Delpher/KB's own terms.
+
+---
+
+<!-- LAATST-GEWIJZIGD -->
+<sub>Last updated: 2026-08-09 · the screenshots above are from that date.</sub>

@@ -32,6 +32,8 @@ kan te koppelen aan [Wikidata](https://www.wikidata.org). Het materiaal komt uit
 [nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft
 gedigitaliseerd en doorzoekbaar gemaakt.
 
+## HackaLOD 2026
+
 De werkbank is gebouwd ter voorbereiding op
 [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de
 Nederlandse hackathon over digitaal erfgoed en open data die door Netwerk

@@ -32,6 +32,15 @@ kan te koppelen aan [Wikidata](https://www.wikidata.org). Het materiaal komt uit
 [nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft
 gedigitaliseerd en doorzoekbaar gemaakt.
 
+De werkbank is gebouwd ter voorbereiding op
+[HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de
+Nederlandse hackathon over digitaal erfgoed en open data die door Netwerk
+Digitaal Erfgoed wordt georganiseerd. Als eerste onderwerp is gekozen voor de
+**Siboga-expeditie**, de Nederlandse zeeonderzoeksexpeditie die in 1899 en 1900
+door de Indonesische archipel voer.
+
+## Hoe werkt het?
+
 Het begint met een zoekopdracht bij Delpher. Van elk artikel dat daaruit komt
 haalt de app de volledige tekst op, de scan van de krantenpagina waarop het
 stond, en de plaats van ieder woord op die scan. Vervolgens gaat hij in die
@@ -42,13 +51,6 @@ blijkt te zijn en splits je wat toch twee verschillende dingen waren. En als je
 zeker weet over wie of wat het gaat, leg je zelf de koppeling met Wikidata,
 waarbij de app je alleen helpt met zoeken. Alles wat je beslist wordt
 opgeschreven en gedateerd, en je kunt het later altijd weer intrekken.
-
-De werkbank is gebouwd ter voorbereiding op
-[HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de
-Nederlandse hackathon over digitaal erfgoed en open data die door Netwerk
-Digitaal Erfgoed wordt georganiseerd. Als eerste onderwerp is gekozen voor de
-**Siboga-expeditie**, de Nederlandse zeeonderzoeksexpeditie die in 1899 en 1900
-door de Indonesische archipel voer.
 
 <!--
 De links in de galerij wijzen naar raw.githubusercontent.com, zodat een klik het

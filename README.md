@@ -19,8 +19,6 @@
   <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" height="46"></a>
 </p>
 
-<a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" align="right" width="200" hspace="16" vspace="6"></a>
-
 In een oud krantenartikel staan veel namen van 'dingen', denk
 bijvoorbeeld aan mensen, schepen, diersoorten, plaatsen, instituten en organisaties. Deze
 werkbank haalt die entiteiten automatisch uit het artikel, en levert een eerste
@@ -33,7 +31,7 @@ Het materiaal komt uit
 [nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft
 gedigitaliseerd en doorzoekbaar gemaakt.
 
-## HackaLOD 2026 en Linked Open Data
+## HackaLOD 2026
 
 <img src="assets/media/hackalod-logo.jpg" alt="HackaLOD 2026, Middelburg" align="right" width="210" hspace="16" vspace="6">
 
@@ -47,14 +45,21 @@ wordt vastgelegd — niet "hier staat de tekst *Max Weber*", maar "hier wordt d�
 Max Weber bedoeld, dezelfde als in dat andere bestand", zodat een computer
 verbanden kan leggen die anders alleen een mens ziet.
 
+Ik doe er dit jaar aan mee in een team van zes, dat **De Wikimedianen** heet.
+Zelf ben ik [Olaf Janssen](https://www.kb.nl/over-ons/experts/olaf-janssen),
+Wikimedia-coördinator bij de KB, en ik neem namens de KB aan dat team deel.
+
 ## De Siboga-expeditie
 
 <img src="assets/media/siboga-expeditie-logo.jpg" alt="Hr.Ms. Siboga" align="right" width="280" hspace="16" vspace="6">
 
-Het onderwerp van deze werkbank is de **Siboga-expeditie**, de Nederlandse zeeonderzoeksexpeditie
-die in 1899 en 1900 door de Indonesische archipel voer.
-Wat die expeditie een goed onderwerp maakt, is dat haar opbrengst over heel
-verschillende soorten instellingen verspreid is geraakt. De verzamelde dieren en
+Als onderwerp hebben we de **Siboga-expeditie** gekozen, de Nederlandse
+zeeonderzoeksexpeditie die in 1899 en 1900 door de Indonesische archipel voer.
+Juist omdat die zo veelzijdig was en over zoveel vakgebieden tegelijk ging: er
+voeren zoölogen, botanici, geologen en een hydrograaf mee, er werd onderweg
+etnografisch materiaal verzameld, en er werd gepeild en in kaart gebracht. Wat
+dat oplevert is een expeditie waarvan de opbrengst over heel verschillende
+soorten instellingen verspreid is geraakt. De verzamelde dieren en
 planten gingen in glazen potten en zinken kisten naar het Zoölogisch
 Laboratorium in Amsterdam, en de etnografica die onderweg zijn verworven
 bevinden zich in het Koninklijk Instituut voor de Tropen. Er kwamen 28
@@ -64,12 +69,10 @@ expeditiejournaal met 323 meetstations. De wetenschappelijke uitkomsten
 verschenen als 148 monografieën van 61 onderzoekers uit tien landen, waarvan de
 laatste pas in 1986 uitkwam — ruim tachtig jaar na thuiskomst. Anna Weber-van
 Bosse, een van de drie vrouwen aan boord, schreef in 1904 haar eigen reisverslag
-*Een jaar aan boord H.M. Siboga*. En Nederland volgde het allemaal thuis in de
-krant, die nu via Delpher te lezen is. 
+*Een jaar aan boord H.M. Siboga*. En Nederland volgde het allemaal thuis in krantenverslagen, die nu via Delpher te lezen zijn. Al dat verschillende materiaal ligt bij andere instellingen, in andere systemen, met andere
+manieren om op te schrijven over wie of wat iets gaat. 
 
-Al dat materiaal ligt bij andere instellingen, in andere systemen, met andere
-manieren om op te schrijven over wie of wat iets gaat. Tijdens het evenement
-willen we die bronnen aan elkaar knopen en er iets mee bouwen.
+Tijdens het evenement willen we deze bronnen aan elkaar proberen te knopen en er iets moois mee bouwen.
 
 ## Delpher als Linked Open Data
 
@@ -290,6 +293,16 @@ Het is een experiment, gemaakt ter lering en vermaak in het kader van de
 
 De code valt onder de voorwaarden in [LICENSE](LICENSE), terwijl het opgehaalde
 krantenmateriaal onder de voorwaarden van Delpher en de KB blijft vallen.
+
+## Wie dit maakt
+
+<a href="https://www.kb.nl/over-ons/experts/olaf-janssen" title="Olaf Janssen op kb.nl"><img src="assets/media/olaf-janssen.jpg" alt="Portretfoto van Olaf Janssen" align="right" width="130" hspace="16" vspace="6"></a>
+
+Deze workbench is gebouwd door
+[Olaf Janssen](https://www.kb.nl/over-ons/experts/olaf-janssen),
+Wikimedia-coördinator bij de KB, nationale bibliotheek van Nederland. Het is
+werk in eigen beheer, gemaakt ter voorbereiding op HackaLOD 2026 — zie de
+[disclaimer](#disclaimer) hierboven voor wat dat wel en niet betekent.
 
 ---
 

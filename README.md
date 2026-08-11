@@ -22,12 +22,13 @@
   <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" height="52"></a>
 </p>
 
-In oude kranten staan ontelbaar veel namen van mensen, schepen, diersoorten,
-plaatsen en organisaties. Deze werkbank haalt die namen automatisch uit de
-tekst, maar dat levert niet meer op dan een eerste suggestie. Wat er werkelijk
-klopt bepaal jij, door elke naam na te lopen, te verbeteren wat ernaast zit, en
-hem waar dat kan te koppelen aan [Wikidata](https://www.wikidata.org). Het
-materiaal komt uit [Delpher](https://www.delpher.nl), waarin de
+In oude krantenartikelen staan ontelbaar veel namen van 'dingen', denk
+bijvoorbeeld aan mensen, schepen, diersoorten, plaatsen en organisaties. Deze
+werkbank haalt die entiteiten automatisch uit het artikel, en levert een eerste
+suggestie van wat elk ding zou kunnen zijn. Wat er werkelijk klopt bepaal jij,
+door elke suggestie na te lopen, te verbeteren wat ernaast zit, en die waar dat
+kan te koppelen aan [Wikidata](https://www.wikidata.org). Het materiaal komt uit
+[Delpher](https://www.delpher.nl), waarin de
 [nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft
 gedigitaliseerd en doorzoekbaar gemaakt.
 

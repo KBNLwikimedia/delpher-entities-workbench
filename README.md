@@ -36,10 +36,30 @@ gedigitaliseerd en doorzoekbaar gemaakt.
 
 De werkbank is gebouwd ter voorbereiding op
 [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de
-Nederlandse hackathon over digitaal erfgoed en open data die door Netwerk
-Digitaal Erfgoed wordt georganiseerd. Als eerste onderwerp is gekozen voor de
-**Siboga-expeditie**, de Nederlandse zeeonderzoeksexpeditie die in 1899 en 1900
-door de Indonesische archipel voer.
+Nederlandse hackathon over digitaal erfgoed die door Netwerk Digitaal Erfgoed
+wordt georganiseerd. De LOD in die naam staat voor **Linked Open Data**, en daar
+draait het hele evenement om: erfgoedgegevens die niet alleen vrij te gebruiken
+zijn, maar die ook naar elkáár verwijzen. Het verschil zit hem in wat er precies
+wordt vastgelegd — niet "hier staat de tekst *Max Weber*", maar "hier wordt díé
+Max Weber bedoeld, dezelfde als in dat andere bestand", zodat een computer
+verbanden kan leggen die anders alleen een mens ziet.
+
+Als onderwerp is gekozen voor de **Siboga-expeditie**, de Nederlandse
+zeeonderzoeksexpeditie die in 1899 en 1900 door de Indonesische archipel voer.
+Wat die expeditie zo geschikt maakt, is dat ze sporen heeft achtergelaten in heel
+verschillende soorten collecties: de verzamelde diersoorten liggen in
+natuurhistorische musea, er zijn reisverslagen en zeekaarten, er is
+archiefmateriaal, en Nederland volgde het thuis in de krant. Tijdens het
+evenement willen we die bronnen aan elkaar knopen en er iets mee bouwen.
+
+De krantenartikelen zijn daarbij de lastigste, want een krant is platte tekst: een
+naam erin is een rijtje letters en verder niets. Daar is deze werkbank de
+voorbereiding op. Door zo'n naam te koppelen aan een item in
+[Wikidata](https://www.wikidata.org) — en Wikidata is zelf Linked Open Data —
+wordt dat rijtje letters een verwijzing die andere collecties óók begrijpen. Zo
+worden de Delpher-artikelen onderdeel van diezelfde wolk van verbonden gegevens,
+en zijn ze op de hackathon gewoon bruikbaar naast de specimens, de kaarten en de
+archiefstukken.
 
 ## Hoe werkt het?
 

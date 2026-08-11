@@ -17,8 +17,6 @@
     <img src="assets/media/kb-logo.svg" alt="KB, nationale bibliotheek" height="46">
   </picture></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://netwerkdigitaalerfgoed.nl/hackalod/" title="HackaLOD 2026, Middelburg"><img src="assets/media/hackalod-logo.jpg" alt="HackaLOD 2026" height="56"></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" height="52"></a>
 </p>
 
@@ -34,6 +32,8 @@ gedigitaliseerd en doorzoekbaar gemaakt.
 
 ## HackaLOD 2026 en Linked Open Data
 
+<img src="assets/media/hackalod-logo.jpg" alt="HackaLOD 2026, Middelburg" align="right" width="210" hspace="16" vspace="6">
+
 De werkbank is gebouwd ter voorbereiding op
 [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de
 Nederlandse hackathon over digitaal erfgoed die door Netwerk Digitaal Erfgoed
@@ -45,6 +45,8 @@ Max Weber bedoeld, dezelfde als in dat andere bestand", zodat een computer
 verbanden kan leggen die anders alleen een mens ziet.
 
 ## De Siboga-expeditie
+
+<img src="assets/media/siboga-expeditie-logo.jpg" alt="Hr.Ms. Siboga" align="right" width="280" hspace="16" vspace="6">
 
 Het onderwerp is de **Siboga-expeditie**, de Nederlandse zeeonderzoeksexpeditie
 die in 1899 en 1900 door de Indonesische archipel voer.
@@ -67,6 +69,8 @@ manieren om op te schrijven over wie of wat iets gaat. Tijdens het evenement
 willen we die bronnen aan elkaar knopen en er iets mee bouwen.
 
 ## Delpher als Linked Open Data
+
+<img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" align="right" width="200" hspace="16" vspace="6">
 
 Van al die bronnen leveren de krantenartikelen een eigen uitdaging op, want een
 krant is platte tekst: een naam erin is een rijtje letters en verder niets. Daar

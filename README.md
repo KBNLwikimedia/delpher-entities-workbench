@@ -15,16 +15,20 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/media/kb-logo-dark.svg">
     <img src="assets/media/kb-logo.svg" alt="KB, nationale bibliotheek" height="46">
   </picture></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" height="46"></a>
 </p>
 
 <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" align="right" width="200" hspace="16" vspace="6"></a>
 
-In oude krantenartikelen staan ontelbaar veel namen van 'dingen', denk
-bijvoorbeeld aan mensen, schepen, diersoorten, plaatsen en organisaties. Deze
+In een oud krantenartikel staan veel namen van 'dingen', denk
+bijvoorbeeld aan mensen, schepen, diersoorten, plaatsen, instituten en organisaties. Deze
 werkbank haalt die entiteiten automatisch uit het artikel, en levert een eerste
 suggestie van wat elk ding zou kunnen zijn. Wat er werkelijk klopt bepaal jij,
 door elke suggestie na te lopen, te verbeteren wat ernaast zit, en die waar dat
-kan te koppelen aan [Wikidata](https://www.wikidata.org). Het materiaal komt uit
+kan te koppelen aan [Wikidata](https://www.wikidata.org). 
+
+Het materiaal komt uit
 [Delpher](https://www.delpher.nl), waarin de
 [nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft
 gedigitaliseerd en doorzoekbaar gemaakt.
@@ -47,7 +51,7 @@ verbanden kan leggen die anders alleen een mens ziet.
 
 <img src="assets/media/siboga-expeditie-logo.jpg" alt="Hr.Ms. Siboga" align="right" width="280" hspace="16" vspace="6">
 
-Het onderwerp is de **Siboga-expeditie**, de Nederlandse zeeonderzoeksexpeditie
+Het onderwerp van deze werkbank is de **Siboga-expeditie**, de Nederlandse zeeonderzoeksexpeditie
 die in 1899 en 1900 door de Indonesische archipel voer.
 Wat die expeditie een goed onderwerp maakt, is dat haar opbrengst over heel
 verschillende soorten instellingen verspreid is geraakt. De verzamelde dieren en
@@ -61,7 +65,7 @@ verschenen als 148 monografieën van 61 onderzoekers uit tien landen, waarvan de
 laatste pas in 1986 uitkwam — ruim tachtig jaar na thuiskomst. Anna Weber-van
 Bosse, een van de drie vrouwen aan boord, schreef in 1904 haar eigen reisverslag
 *Een jaar aan boord H.M. Siboga*. En Nederland volgde het allemaal thuis in de
-krant.
+krant, die nu via Delpher te lezen is. 
 
 Al dat materiaal ligt bij andere instellingen, in andere systemen, met andere
 manieren om op te schrijven over wie of wat iets gaat. Tijdens het evenement
@@ -83,12 +87,6 @@ te combineren met de specimens, de kaarten, de etnografica en de archiefstukken
 over dezelfde expeditie.
 
 ## Hoe werkt het?
-
-Je werkt per onderwerp, en zo'n onderwerp heet in de app een **project**: het
-heeft zijn eigen artikelen, zijn eigen lijst met namen en zijn eigen
-beslissingen, en niets daarvan loopt over naar een ander project. Zo kan de
-Siboga-expeditie naast een heel andere verzameling staan zonder dat ze elkaar
-in de weg zitten.
 
 Het begint met een zoekopdracht bij Delpher. Van elk artikel dat daaruit komt
 haalt de app de volledige tekst op, de scan van de krantenpagina waarop het
@@ -296,4 +294,4 @@ krantenmateriaal onder de voorwaarden van Delpher en de KB blijft vallen.
 ---
 
 <!-- LAATST-GEWIJZIGD -->
-<sub>Laatst bijgewerkt: 11-08-2026
+<sub>Laatst bijgewerkt: 2026-08-11 · de afbeeldingen hierboven zijn van die datum.</sub>

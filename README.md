@@ -22,29 +22,32 @@
   <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" height="52"></a>
 </p>
 
-Een oude krant staat vol namen: mensen, schepen, diersoorten, plaatsen,
-organisaties. Deze werkbank vist ze automatisch uit de tekst — maar verder dan
-een suggestie gaat hij niet. **Jij bepaalt wat er klopt**: je kijkt elke naam
-na, verbetert wat er misgaat, en koppelt hem aan
-[Wikidata](https://www.wikidata.org). Het materiaal komt uit
-[Delpher](https://www.delpher.nl): miljoenen gedigitaliseerde kranten,
-doorzoekbaar gemaakt door de
-[KB, de nationale bibliotheek van Nederland](https://www.kb.nl).
+In oude kranten staan ontelbaar veel namen van mensen, schepen, diersoorten,
+plaatsen en organisaties. Deze werkbank haalt die namen automatisch uit de
+tekst, maar dat levert niet meer op dan een eerste suggestie. Wat er werkelijk
+klopt bepaal jij, door elke naam na te lopen, te verbeteren wat ernaast zit, en
+hem waar dat kan te koppelen aan [Wikidata](https://www.wikidata.org). Het
+materiaal komt uit [Delpher](https://www.delpher.nl), waarin de
+[nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft
+gedigitaliseerd en doorzoekbaar gemaakt.
 
-Stap voor stap: de app voert een zoekopdracht uit bij Delpher en haalt van elk
-gevonden artikel drie dingen op — de volledige tekst, de scan van de
-krantenpagina, en de plaats van elk woord op die scan. Daarna zoekt hij in die
-tekst de namen op. **Daar houdt het automatische werk op.** In de werkbank kijk
-jij ze na: bevestigen, verbeteren, hernoemen, splitsen, samenvoegen — en zelf de
-koppeling met Wikidata leggen. Daarbij helpt de app je zoeken, maar de koppeling
-maak jij. Elke beslissing wordt opgeschreven, krijgt een datum, en is altijd
-weer in te trekken.
+Het begint met een zoekopdracht bij Delpher. Van elk artikel dat daaruit komt
+haalt de app de volledige tekst op, de scan van de krantenpagina waarop het
+stond, en de plaats van ieder woord op die scan. Vervolgens gaat hij in die
+tekst op zoek naar namen, en daarmee is het automatische deel afgelopen. De rest
+doe jij: in de werkbank loop je de gevonden namen langs en bevestig je wat
+klopt, verbeter of hernoem je wat ernaast zit, voeg je samen wat hetzelfde
+blijkt te zijn en splits je wat toch twee verschillende dingen waren. En als je
+zeker weet over wie of wat het gaat, leg je zelf de koppeling met Wikidata,
+waarbij de app je alleen helpt met zoeken. Alles wat je beslist wordt
+opgeschreven en gedateerd, en je kunt het later altijd weer intrekken.
 
-Gebouwd ter voorbereiding op
+De werkbank is gebouwd ter voorbereiding op
 [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de
-Nederlandse hackathon over digitaal erfgoed en open data van Netwerk Digitaal
-Erfgoed. Het eerste project is de **Siboga-expeditie**, de Nederlandse
-zeeonderzoeksexpeditie die in 1899–1900 door de Indonesische archipel voer.
+Nederlandse hackathon over digitaal erfgoed en open data die door Netwerk
+Digitaal Erfgoed wordt georganiseerd. Als eerste onderwerp is gekozen voor de
+**Siboga-expeditie**, de Nederlandse zeeonderzoeksexpeditie die in 1899 en 1900
+door de Indonesische archipel voer.
 
 <!--
 De links in de galerij wijzen naar raw.githubusercontent.com, zodat een klik het
@@ -169,30 +172,31 @@ Hetzelfde verhaal maar dan chronologisch: wat er gebeurd is, wanneer, en door wi
 
 ## Waar de code staat
 
-**Voorlopig niet hier.** Het is onderzoeksgereedschap dat volop in ontwikkeling
-is, op één computer, samen met het opgehaalde krantenmateriaal en alle
-beslissingen die er inmiddels in zitten. Of de code openbaar wordt, is een
-keuze voor later.
+Voorlopig niet hier. Het is onderzoeksgereedschap dat nog volop in ontwikkeling
+is en dat op één computer draait, samen met alle krantenartikelen die er
+inmiddels in zijn opgehaald en alle beslissingen die erover genomen zijn. Of de
+code openbaar wordt, is een keuze voor later.
 
 ## Waar deze repo dan wél voor is
 
-**Het meldpunt.** Fouten, wensen en open vragen worden verzameld bij
-[Issues](https://github.com/KBNLwikimedia/delpher-entities-workbench/issues).
-Dat is op dit moment het hele doel van deze repo, dus een melding is welkom —
+Dit is het meldpunt. Fouten, wensen en open vragen worden verzameld bij
+[Issues](https://github.com/KBNLwikimedia/delpher-entities-workbench/issues), en
+dat is op dit moment het hele doel van deze repo. Een melding is dus welkom,
 ook al kun je de code waar hij over gaat nog niet inzien.
 
 ## Het materiaal
 
-De artikelteksten, de scans en de automatisch uitgelezen tekst komen van
-Delpher en de KB. Daarvoor gelden
-[de gebruiksvoorwaarden van Delpher zelf](https://www.delpher.nl/over-delpher/gebruiksvoorwaarden);
-de afbeeldingen hierboven laten dat materiaal in die context zien. De namen die
-eruit komen worden gekoppeld aan Wikidata, en dat is CC0 — vrij te gebruiken.
+De artikelteksten, de scans en de automatisch uitgelezen tekst komen van Delpher
+en de KB, en daarvoor gelden
+[de gebruiksvoorwaarden van Delpher zelf](https://www.delpher.nl/over-delpher/gebruiksvoorwaarden).
+Op de afbeeldingen hierboven zie je dat materiaal in die context terug. De namen
+die eruit voortkomen worden gekoppeld aan Wikidata, dat onder CC0 valt en dus
+vrij te gebruiken is.
 
 ## Licentie
 
-De code valt onder de voorwaarden in [LICENSE](LICENSE). Het opgehaalde
-materiaal blijft onder de voorwaarden van Delpher en de KB vallen.
+De code valt onder de voorwaarden in [LICENSE](LICENSE), terwijl het opgehaalde
+krantenmateriaal onder de voorwaarden van Delpher en de KB blijft vallen.
 
 ---
 

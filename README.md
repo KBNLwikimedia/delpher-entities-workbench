@@ -66,10 +66,9 @@ broncode als tekst op deze pagina.
 
 ## Zo ziet het eruit
 
-De zestien schermen, in de volgorde waarin je ze tegenkomt. Klik op een
-afbeelding om hem groot te bekijken.
-
 <!-- GALERIJ:START -- gegenereerd, zie scripts/build_readme_gallery.py -->
+De zeventien schermen, in de volgorde waarin je ze tegenkomt. Klik op een afbeelding om hem groot te bekijken.
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -165,6 +164,13 @@ Elke beslissing die iemand ooit nam, gegroepeerd op soort en te sorteren. Per re
 <a href="https://raw.githubusercontent.com/KBNLwikimedia/delpher-entities-workbench/refs/heads/main/assets/media/16-geschiedenis.png"><img src="assets/media/16-geschiedenis.png" alt="Het logboek van het project"></a>
 <br><b>16 &middot; Het logboek, op volgorde van tijd</b><br>
 Hetzelfde verhaal maar dan chronologisch: wat er gebeurd is, wanneer, en door wie. Er wordt alleen aan toegevoegd en nooit in geschrapt, dus je kunt altijd terugzien hoe iets zo gekomen is.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://raw.githubusercontent.com/KBNLwikimedia/delpher-entities-workbench/refs/heads/main/assets/media/17-voettekst.png"><img src="assets/media/17-voettekst.png" alt="De voettekst met de vrijwaring"></a>
+<br><b>17 &middot; En onderaan elke pagina de vrijwaring</b><br>
+Deze workbench is geen product van Delpher of van de KB, hoe vaak hun beeldmerken hier ook staan. Wat er dan wél is en wat je er niet aan mag ontlenen staat in de voettekst, op elke pagina, ook op de twee die verder helemaal geen app zijn.
 </td>
 </tr>
 </table>

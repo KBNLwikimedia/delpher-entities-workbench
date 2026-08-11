@@ -22,19 +22,20 @@
   <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" height="52"></a>
 </p>
 
-Namen opsporen in oude krantenartikelen — mensen, schepen, diersoorten,
-plaatsen, organisaties — in [Delpher](https://www.delpher.nl), waar de
-[KB, nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen
-gedigitaliseerde kranten, boeken en tijdschriften doorzoekbaar heeft gemaakt.
-Die namen worden opgezocht in [Wikidata](https://www.wikidata.org), en een mens
-kijkt elk van die oordelen na.
+Een oude krant staat vol namen: mensen, schepen, diersoorten, plaatsen,
+organisaties. Deze werkbank haalt ze uit de tekst, zoekt op welk
+[Wikidata](https://www.wikidata.org)-item erbij hoort, en legt elke keuze aan
+een mens voor. Het materiaal komt uit [Delpher](https://www.delpher.nl):
+miljoenen gedigitaliseerde kranten, doorzoekbaar gemaakt door de
+[KB, de nationale bibliotheek van Nederland](https://www.kb.nl).
 
-Wat het doet: het haalt een zoekopdracht uit Delpher binnen — de volledige
-tekst, de scans van de krantenpagina's, en de plaats van elk woord op die scan.
-Vervolgens zoekt het in die tekst automatisch de namen op, stelt bij elke naam
-een Wikidata-item voor, en zet het resultaat in een werkbank waarin jij
-bevestigt, verbetert, samenvoegt, splitst, hernoemt of koppelt. Elke beslissing
-wordt opgeschreven, krijgt een datum, en is altijd weer in te trekken.
+Stap voor stap: de app voert een zoekopdracht uit bij Delpher en haalt van elk
+gevonden artikel drie dingen op — de volledige tekst, de scan van de
+krantenpagina, en de plaats van elk woord op die scan. Daarna zoekt hij de namen
+op in die tekst, stelt bij elke naam een Wikidata-item voor, en zet het
+resultaat in een werkbank waarin jij bevestigt, verbetert, samenvoegt, splitst,
+hernoemt of koppelt. Elke beslissing wordt opgeschreven, krijgt een datum, en is
+altijd weer in te trekken.
 
 Gebouwd ter voorbereiding op
 [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de

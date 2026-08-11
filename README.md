@@ -32,7 +32,7 @@ kan te koppelen aan [Wikidata](https://www.wikidata.org). Het materiaal komt uit
 [nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft
 gedigitaliseerd en doorzoekbaar gemaakt.
 
-## HackaLOD 2026
+## HackaLOD 2026 en Linked Open Data
 
 De werkbank is gebouwd ter voorbereiding op
 [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de
@@ -44,9 +44,11 @@ wordt vastgelegd — niet "hier staat de tekst *Max Weber*", maar "hier wordt d�
 Max Weber bedoeld, dezelfde als in dat andere bestand", zodat een computer
 verbanden kan leggen die anders alleen een mens ziet.
 
-Als onderwerp is gekozen voor de **Siboga-expeditie**, de Nederlandse
+## De Siboga-expeditie
+
+Het eerste project gaat over de **Siboga-expeditie**, de Nederlandse
 zeeonderzoeksexpeditie die in 1899 en 1900 door de Indonesische archipel voer.
-Wat die expeditie zo geschikt maakt, is dat haar opbrengst over heel
+Wat die expeditie een goed onderwerp maakt, is dat haar opbrengst over heel
 verschillende soorten instellingen verspreid is geraakt. De verzamelde dieren en
 planten gingen in glazen potten en zinken kisten naar het Zoölogisch
 Laboratorium in Amsterdam, en de etnografica die onderweg zijn verworven
@@ -64,9 +66,11 @@ Al dat materiaal ligt bij andere instellingen, in andere systemen, met andere
 manieren om op te schrijven over wie of wat iets gaat. Tijdens het evenement
 willen we die bronnen aan elkaar knopen en er iets mee bouwen.
 
-De krantenartikelen leveren daarbij een eigen uitdaging op, want een krant is
-platte tekst: een naam erin is een rijtje letters en verder niets. Daar is deze
-werkbank de voorbereiding op. Door zo'n naam te koppelen aan een item in
+## Delpher als Linked Open Data
+
+Van al die bronnen leveren de krantenartikelen een eigen uitdaging op, want een
+krant is platte tekst: een naam erin is een rijtje letters en verder niets. Daar
+is deze werkbank de voorbereiding op. Door zo'n naam te koppelen aan een item in
 [Wikidata](https://www.wikidata.org) — en Wikidata is zelf Linked Open Data —
 wordt dat rijtje letters een verwijzing die andere collecties óók begrijpen. Zo
 worden de Delpher-artikelen onderdeel van de **Linked Open Data cloud** — alle

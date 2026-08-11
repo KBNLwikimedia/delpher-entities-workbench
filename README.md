@@ -46,20 +46,33 @@ verbanden kan leggen die anders alleen een mens ziet.
 
 Als onderwerp is gekozen voor de **Siboga-expeditie**, de Nederlandse
 zeeonderzoeksexpeditie die in 1899 en 1900 door de Indonesische archipel voer.
-Wat die expeditie zo geschikt maakt, is dat ze sporen heeft achtergelaten in heel
-verschillende soorten collecties: de verzamelde diersoorten liggen in
-natuurhistorische musea, er zijn reisverslagen en zeekaarten, er is
-archiefmateriaal, en Nederland volgde het thuis in de krant. Tijdens het
-evenement willen we die bronnen aan elkaar knopen en er iets mee bouwen.
+Wat die expeditie zo geschikt maakt, is dat haar opbrengst over heel
+verschillende soorten instellingen verspreid is geraakt. De verzamelde dieren en
+planten gingen in glazen potten en zinken kisten naar het Zoölogisch
+Laboratorium in Amsterdam, en de etnografica die onderweg zijn verworven
+bevinden zich in het Koninklijk Instituut voor de Tropen. Er kwamen 28
+detailkaarten van ankerplaatsen, zeestraten en eilandengroepen uit voort, twee
+zeekaarten met dieptemetingen, honderd hydrografische aantekeningen en een
+expeditiejournaal met 323 meetstations. De wetenschappelijke uitkomsten
+verschenen als 148 monografieën van 61 onderzoekers uit tien landen, waarvan de
+laatste pas in 1986 uitkwam — ruim tachtig jaar na thuiskomst. Anna Weber-van
+Bosse, een van de drie vrouwen aan boord, schreef in 1904 haar eigen reisverslag
+*Een jaar aan boord H.M. Siboga*. En Nederland volgde het allemaal thuis in de
+krant.
+
+Al dat materiaal ligt bij andere instellingen, in andere systemen, met andere
+manieren om op te schrijven over wie of wat iets gaat. Tijdens het evenement
+willen we die bronnen aan elkaar knopen en er iets mee bouwen.
 
 De krantenartikelen zijn daarbij de lastigste, want een krant is platte tekst: een
 naam erin is een rijtje letters en verder niets. Daar is deze werkbank de
 voorbereiding op. Door zo'n naam te koppelen aan een item in
 [Wikidata](https://www.wikidata.org) — en Wikidata is zelf Linked Open Data —
 wordt dat rijtje letters een verwijzing die andere collecties óók begrijpen. Zo
-worden de Delpher-artikelen onderdeel van diezelfde wolk van verbonden gegevens,
-en zijn ze op de hackathon gewoon bruikbaar naast de specimens, de kaarten en de
-archiefstukken.
+worden de Delpher-artikelen onderdeel van de **Linked Open Data cloud** — alle
+verzamelingen ter wereld die op die manier naar elkaar verwijzen, met Wikidata
+middenin — en zijn ze op de hackathon gewoon te combineren met de specimens, de
+kaarten en de archiefstukken over dezelfde expeditie.
 
 ## Hoe werkt het?
 

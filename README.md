@@ -79,7 +79,7 @@ De zeventien schermen, in de volgorde waarin je ze tegenkomt. Klik op een afbeel
 <td width="50%" valign="top">
 <a href="https://raw.githubusercontent.com/KBNLwikimedia/delpher-entities-workbench/refs/heads/main/assets/media/01-uitleg.png"><img src="assets/media/01-uitleg.png" alt="Over deze workbench"></a>
 <br><b>1 &middot; Eerst even lezen wat dit is</b><br>
-De pagina <i>Over deze workbench</i> legt in gewone taal uit waar de app voor is en in welke volgorde je te werk gaat. Geschreven voor iemand die hem voor het eerst opent.
+De pagina ‘Over deze workbench’ legt in gewone taal uit waar de app voor is en in welke volgorde je te werk gaat. Geschreven voor iemand die hem voor het eerst opent.
 </td>
 <td width="50%" valign="top">
 <a href="https://raw.githubusercontent.com/KBNLwikimedia/delpher-entities-workbench/refs/heads/main/assets/media/02-overzicht.png"><img src="assets/media/02-overzicht.png" alt="Het projectoverzicht"></a>
@@ -151,7 +151,7 @@ Een regel per naam, met de soort, wat Wikidata erover zegt, alle schrijfwijzen d
 <td width="50%" valign="top">
 <a href="https://raw.githubusercontent.com/KBNLwikimedia/delpher-entities-workbench/refs/heads/main/assets/media/13-dubbelen.png"><img src="assets/media/13-dubbelen.png" alt="Namen die waarschijnlijk hetzelfde zijn, bij elkaar gezet"></a>
 <br><b>13 &middot; Namen die op elkaar lijken, bij elkaar</b><br>
-De app zet namen die waarschijnlijk hetzelfde zijn bij elkaar, zodat je ze in een keer kunt samenvoegen. Vaak zijn het leesfouten in de scan: <i>Snellius-expeditie</i> staat er ook als <i>Snelliusexpeditie</i> en <i>SneUlus-expeditie</i>.
+De app zet namen die waarschijnlijk hetzelfde zijn bij elkaar, zodat je ze in een keer kunt samenvoegen. Vaak zijn het leesfouten in de scan: <code>Snellius-expeditie</code> staat er ook als <code>Snelliusexpeditie</code> en <code>SneUlus-expeditie</code>.
 </td>
 <td width="50%" valign="top">
 <a href="https://raw.githubusercontent.com/KBNLwikimedia/delpher-entities-workbench/refs/heads/main/assets/media/14-entiteit-paneel.png"><img src="assets/media/14-entiteit-paneel.png" alt="Het paneel van een naam, met zijn geschiedenis"></a>

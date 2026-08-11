@@ -2,11 +2,18 @@
   The ONE hook this site has into the <head>, and the whole reason it exists.
 
   GitHub Pages renders README.md with Jekyll + jekyll-theme-primer. The theme's
-  layout ends its <head> with {% include head-custom.html %}, and a file at this
-  path overrides the theme's own (empty) copy. There is no other way in: a
+  layout ends its <head> by INCLUDING a file of this exact name, and a file at
+  this path overrides the theme's own (empty) copy. There is no other way in: a
   <script> or <style> written into README.md is not stripped by GitHub's own
   markdown renderer -- it is ESCAPED, so the whole source would appear as
   visible text on the repo landing page. Measured against `gh api markdown`.
+
+  GOTCHA, and it broke the very first build: do NOT write that include tag out
+  in full anywhere in this file, not even here. Liquid runs BEFORE the HTML is
+  parsed, so an HTML comment is no comment to it -- the tag fired, this file
+  included itself, and Jekyll failed on the recursion. Same shape as the
+  backticks-in-an-HTML-comment trap in the app's own JavaScript: an annotation
+  that is inert to one parser and live to another.
 
   So the lightbox is loaded from here and finds its own links in the page.
   README.md is untouched by it, byte for byte, which is what keeps the repo

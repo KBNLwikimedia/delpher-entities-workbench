@@ -23,19 +23,22 @@
 </p>
 
 Een oude krant staat vol namen: mensen, schepen, diersoorten, plaatsen,
-organisaties. Deze werkbank haalt ze uit de tekst, zoekt op welk
-[Wikidata](https://www.wikidata.org)-item erbij hoort, en legt elke keuze aan
-een mens voor. Het materiaal komt uit [Delpher](https://www.delpher.nl):
-miljoenen gedigitaliseerde kranten, doorzoekbaar gemaakt door de
+organisaties. Deze werkbank vist ze automatisch uit de tekst — maar verder dan
+een suggestie gaat hij niet. **Jij bepaalt wat er klopt**: je kijkt elke naam
+na, verbetert wat er misgaat, en koppelt hem aan
+[Wikidata](https://www.wikidata.org). Het materiaal komt uit
+[Delpher](https://www.delpher.nl): miljoenen gedigitaliseerde kranten,
+doorzoekbaar gemaakt door de
 [KB, de nationale bibliotheek van Nederland](https://www.kb.nl).
 
 Stap voor stap: de app voert een zoekopdracht uit bij Delpher en haalt van elk
 gevonden artikel drie dingen op — de volledige tekst, de scan van de
-krantenpagina, en de plaats van elk woord op die scan. Daarna zoekt hij de namen
-op in die tekst, stelt bij elke naam een Wikidata-item voor, en zet het
-resultaat in een werkbank waarin jij bevestigt, verbetert, samenvoegt, splitst,
-hernoemt of koppelt. Elke beslissing wordt opgeschreven, krijgt een datum, en is
-altijd weer in te trekken.
+krantenpagina, en de plaats van elk woord op die scan. Daarna zoekt hij in die
+tekst de namen op. **Daar houdt het automatische werk op.** In de werkbank kijk
+jij ze na: bevestigen, verbeteren, hernoemen, splitsen, samenvoegen — en zelf de
+koppeling met Wikidata leggen. Daarbij helpt de app je zoeken, maar de koppeling
+maak jij. Elke beslissing wordt opgeschreven, krijgt een datum, en is altijd
+weer in te trekken.
 
 Gebouwd ter voorbereiding op
 [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de

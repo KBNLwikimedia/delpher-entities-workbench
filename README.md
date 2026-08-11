@@ -17,16 +17,18 @@
   </picture></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" height="46"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://netwerkdigitaalerfgoed.nl/" title="Netwerk Digitaal Erfgoed"><img src="assets/media/nde-logo.png" alt="Netwerk Digitaal Erfgoed" height="56"></a>
 </p>
 
-In een oud krantenartikel staan veel namen van 'dingen', denk
-bijvoorbeeld aan mensen, schepen, diersoorten, plaatsen, instituten en organisaties. Deze
-werkbank haalt die entiteiten automatisch uit het artikel, en levert een eerste
-suggestie van wat elk ding zou kunnen zijn. Wat er werkelijk klopt bepaal jij,
-door elke suggestie na te lopen, te verbeteren wat ernaast zit, en die waar dat
-kan te koppelen aan [Wikidata](https://www.wikidata.org). 
+In een oud krantenartikel staan veel namen van 'dingen': mensen, schepen,
+diersoorten, plaatsen, instituten en organisaties. De **Delpher Entiteiten
+Workbench** haalt die er automatisch uit en doet meteen een gok over wat elk
+ding zou kunnen zijn. Maar wat er werkelijk klopt bepaal jij. Je loopt die
+gokken na, verbetert wat ernaast zit, en koppelt ze waar dat kan aan
+[Wikidata](https://www.wikidata.org).
 
-Het materiaal komt uit
+De artikelen komen uit
 [Delpher](https://www.delpher.nl), waarin de
 [nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft
 gedigitaliseerd en doorzoekbaar gemaakt.
@@ -35,15 +37,18 @@ gedigitaliseerd en doorzoekbaar gemaakt.
 
 <img src="assets/media/hackalod-logo.jpg" alt="HackaLOD 2026, Middelburg" align="right" width="210" hspace="16" vspace="6">
 
-De werkbank is gebouwd ter voorbereiding op
+Deze werkbank maak ik ter voorbereiding op
 [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de
-Nederlandse hackathon over digitaal erfgoed die door Netwerk Digitaal Erfgoed
-wordt georganiseerd. De LOD in die naam staat voor **Linked Open Data**, en daar
+Nederlandse hackathon over digitaal erfgoed die het
+[Netwerk Digitaal Erfgoed](https://nl.wikipedia.org/wiki/Netwerk_Digitaal_Erfgoed)
+elk jaar organiseert. De LOD in die naam staat voor
+**[Linked Open Data](https://nl.wikipedia.org/wiki/Linked_data)**, en daar
 draait het hele evenement om: erfgoedgegevens die niet alleen vrij te gebruiken
 zijn, maar die ook naar elkáár verwijzen. Het verschil zit hem in wat er precies
-wordt vastgelegd — niet "hier staat de tekst *Max Weber*", maar "hier wordt díé
-Max Weber bedoeld, dezelfde als in dat andere bestand", zodat een computer
-verbanden kan leggen die anders alleen een mens ziet.
+wordt vastgelegd — niet "hier staat de tekst *Max Weber*", maar "hier wordt
+[díé Max Weber](https://nl.wikipedia.org/wiki/Max_Weber_%28zo%C3%B6loog%29) bedoeld,
+dezelfde als in dat andere bestand" — zodat een computer verbanden kan leggen
+die anders alleen een mens ziet.
 
 Ik doe er dit jaar aan mee in een team van zes, dat **De Wikimedianen** heet.
 Zelf ben ik [Olaf Janssen](https://www.kb.nl/over-ons/experts/olaf-janssen),
@@ -53,26 +58,32 @@ Wikimedia-coördinator bij de KB, en ik neem namens de KB aan dat team deel.
 
 <img src="assets/media/siboga-expeditie-logo.jpg" alt="Hr.Ms. Siboga" align="right" width="280" hspace="16" vspace="6">
 
-Als onderwerp hebben we de **Siboga-expeditie** gekozen, de Nederlandse
-zeeonderzoeksexpeditie die in 1899 en 1900 door de Indonesische archipel voer.
-Juist omdat die zo veelzijdig was en over zoveel vakgebieden tegelijk ging: er
-voeren zoölogen, botanici, geologen en een hydrograaf mee, er werd onderweg
-etnografisch materiaal verzameld, en er werd gepeild en in kaart gebracht. Wat
-dat oplevert is een expeditie waarvan de opbrengst over heel verschillende
-soorten instellingen verspreid is geraakt. De verzamelde dieren en
+Als onderwerp voor onze deelname hebben we de
+**[Siboga-expeditie](https://nl.wikipedia.org/wiki/Siboga-expeditie)** gekozen,
+een Nederlandse zeeonderzoeksexpeditie die in 1899 en 1900 door de Indonesische
+archipel voer. We kozen die juist omdat er zoveel vakgebieden tegelijk bij
+kwamen kijken: er voeren zoölogen, botanici, geologen en een
+[hydrograaf](https://nl.wikipedia.org/wiki/Hydrografie) mee, er werd onderweg
+[etnografisch](https://nl.wikipedia.org/wiki/Etnografie) materiaal verzameld, en
+er werd gepeild en in kaart gebracht.
+
+En daarom ligt de opbrengst nu zo verspreid. De verzamelde dieren en
 planten gingen in glazen potten en zinken kisten naar het Zoölogisch
 Laboratorium in Amsterdam, en de etnografica die onderweg zijn verworven
-bevinden zich in het Koninklijk Instituut voor de Tropen. Er kwamen 28
+bevinden zich in het
+[Koninklijk Instituut voor de Tropen](https://nl.wikipedia.org/wiki/Koninklijk_Instituut_voor_de_Tropen). Er kwamen 28
 detailkaarten van ankerplaatsen, zeestraten en eilandengroepen uit voort, twee
 zeekaarten met dieptemetingen, honderd hydrografische aantekeningen en een
 expeditiejournaal met 323 meetstations. De wetenschappelijke uitkomsten
 verschenen als 148 monografieën van 61 onderzoekers uit tien landen, waarvan de
-laatste pas in 1986 uitkwam — ruim tachtig jaar na thuiskomst. Anna Weber-van
-Bosse, een van de drie vrouwen aan boord, schreef in 1904 haar eigen reisverslag
-*Een jaar aan boord H.M. Siboga*. En Nederland volgde het allemaal thuis in krantenverslagen, die nu via Delpher te lezen zijn. Al dat verschillende materiaal ligt bij andere instellingen, in andere systemen, met andere
-manieren om op te schrijven over wie of wat iets gaat. 
+laatste pas in 1986 uitkwam — ruim tachtig jaar na thuiskomst. [Anna Weber-van Bosse](https://nl.wikipedia.org/wiki/Anna_Weber-van_Bosse),
+een van de drie vrouwen aan boord, schreef in 1904 haar eigen reisverslag
+*[Een jaar aan boord H.M. Siboga](https://resolver.kb.nl/resolve?urn=MMSFUBA02:000012938)*. En Nederland volgde het allemaal thuis in de krant — verslagen die je nu via
+Delpher kunt teruglezen.
 
-Tijdens het evenement willen we deze bronnen aan elkaar proberen te knopen en er iets moois mee bouwen.
+Al dat materiaal ligt dus bij andere instellingen, in andere systemen, en elk
+met een eigen manier om op te schrijven over wie of wat iets gaat. Tijdens het
+evenement willen we die bronnen aan elkaar knopen en er iets moois mee bouwen.
 
 ## Delpher als Linked Open Data
 
@@ -83,7 +94,7 @@ krant is platte tekst: een naam erin is een rijtje letters en verder niets. Daar
 is deze werkbank de voorbereiding op. Door zo'n naam te koppelen aan een item in
 [Wikidata](https://www.wikidata.org) — en Wikidata is zelf Linked Open Data —
 wordt dat rijtje letters een verwijzing die andere collecties óók begrijpen. Zo
-worden de Delpher-artikelen onderdeel van de **Linked Open Data cloud** — alle
+worden de Delpher-artikelen onderdeel van de **[Linked Open Data cloud](https://lod-cloud.net/)** — alle
 verzamelingen ter wereld die op die manier naar elkaar verwijzen, en waarin
 Wikidata een veelgebruikt ankerpunt is. Daarmee zijn ze op de hackathon gewoon
 te combineren met de specimens, de kaarten, de etnografica en de archiefstukken
@@ -231,10 +242,10 @@ Deze workbench is geen product van Delpher of van de KB, hoe vaak hun beeldmerke
 
 ## Waar de code staat
 
-Voorlopig niet hier. Het is onderzoeksgereedschap dat nog volop in ontwikkeling
-is en dat op één computer draait, samen met alle krantenartikelen die er
-inmiddels in zijn opgehaald en alle beslissingen die erover genomen zijn. Of de
-code openbaar wordt, is een keuze voor later.
+Voorlopig niet hier. Het is gereedschap voor onderzoek, nog volop in de maak, en
+het draait op één computer — samen met alle krantenartikelen die er inmiddels in
+zitten en alle beslissingen die daarover genomen zijn. Of de code openbaar
+wordt, zie ik later wel.
 
 ## Waar deze repo dan wél voor is
 
@@ -254,8 +265,8 @@ De artikelteksten, de scans en de automatisch uitgelezen tekst komen van Delpher
 en de KB, en daarvoor gelden
 [de gebruiksvoorwaarden van Delpher zelf](https://www.delpher.nl/over-delpher/gebruiksvoorwaarden).
 Op de afbeeldingen hierboven zie je dat materiaal in die context terug. De namen
-die eruit voortkomen worden gekoppeld aan Wikidata, dat onder CC0 valt en dus
-vrij te gebruiken is.
+die eruit komen koppelen we aan Wikidata, en dat is CC0: vrij te gebruiken door
+iedereen.
 
 ## Disclaimer
 

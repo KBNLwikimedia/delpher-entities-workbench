@@ -193,6 +193,33 @@ Op de afbeeldingen hierboven zie je dat materiaal in die context terug. De namen
 die eruit voortkomen worden gekoppeld aan Wikidata, dat onder CC0 valt en dus
 vrij te gebruiken is.
 
+## Disclaimer
+
+Deze workbench is **geen officieel product en geen dienst van Delpher, van de
+KB, nationale bibliotheek van Nederland, of van Netwerk Digitaal Erfgoed.** Er
+is geen samenwerking met deze organisaties en zij hebben zich er niet over
+uitgesproken. Hun namen en beeldmerken staan hier alleen om te vermelden waar
+het krantenmateriaal vandaan komt.
+
+Het is een experiment, gemaakt ter lering en vermaak in het kader van de
+[HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg.
+
+- **Geen garanties.** De app wordt geleverd zoals hij is. Over juistheid,
+  volledigheid, actualiteit en beschikbaarheid wordt niets beloofd.
+- **Geen rechten.** Aan de getoonde namen, koppelingen en aantallen kunnen geen
+  rechten worden ontleend. De namen worden automatisch herkend en dat gaat
+  geregeld mis; waar een mens ze heeft nagekeken is dat de opvatting van die
+  persoon.
+- **Geen ondersteuning.** Er is geen helpdesk, geen toezegging over onderhoud,
+  en geen garantie dat deze app er morgen nog is.
+- **Geen aansprakelijkheid.** De maker aanvaardt geen aansprakelijkheid voor
+  schade die voortkomt uit het gebruik van deze app of van de gegevens erin.
+- **Het bronmateriaal.** De krantenartikelen komen van Delpher en blijven
+  vallen onder
+  [de gebruiksvoorwaarden van Delpher](https://www.delpher.nl/over-delpher/gebruiksvoorwaarden).
+  Het zijn historische teksten: ze bevatten woorden en opvattingen die vandaag
+  als kwetsend of onjuist gelden, en er is niets aan gekuist.
+
 ## Licentie
 
 De code valt onder de voorwaarden in [LICENSE](LICENSE), terwijl het opgehaalde

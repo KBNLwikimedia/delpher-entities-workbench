@@ -64,15 +64,16 @@ Al dat materiaal ligt bij andere instellingen, in andere systemen, met andere
 manieren om op te schrijven over wie of wat iets gaat. Tijdens het evenement
 willen we die bronnen aan elkaar knopen en er iets mee bouwen.
 
-De krantenartikelen zijn daarbij de lastigste, want een krant is platte tekst: een
-naam erin is een rijtje letters en verder niets. Daar is deze werkbank de
-voorbereiding op. Door zo'n naam te koppelen aan een item in
+De krantenartikelen leveren daarbij een eigen uitdaging op, want een krant is
+platte tekst: een naam erin is een rijtje letters en verder niets. Daar is deze
+werkbank de voorbereiding op. Door zo'n naam te koppelen aan een item in
 [Wikidata](https://www.wikidata.org) — en Wikidata is zelf Linked Open Data —
 wordt dat rijtje letters een verwijzing die andere collecties óók begrijpen. Zo
 worden de Delpher-artikelen onderdeel van de **Linked Open Data cloud** — alle
-verzamelingen ter wereld die op die manier naar elkaar verwijzen, met Wikidata
-middenin — en zijn ze op de hackathon gewoon te combineren met de specimens, de
-kaarten en de archiefstukken over dezelfde expeditie.
+verzamelingen ter wereld die op die manier naar elkaar verwijzen, en waarin
+Wikidata een veelgebruikt ankerpunt is. Daarmee zijn ze op de hackathon gewoon
+te combineren met de specimens, de kaarten, de etnografica en de archiefstukken
+over dezelfde expeditie.
 
 ## Hoe werkt het?
 

@@ -1,0 +1,19 @@
+<!--
+  The ONE hook this site has into the <head>, and the whole reason it exists.
+
+  GitHub Pages renders README.md with Jekyll + jekyll-theme-primer. The theme's
+  layout ends its <head> with {% include head-custom.html %}, and a file at this
+  path overrides the theme's own (empty) copy. There is no other way in: a
+  <script> or <style> written into README.md is not stripped by GitHub's own
+  markdown renderer -- it is ESCAPED, so the whole source would appear as
+  visible text on the repo landing page. Measured against `gh api markdown`.
+
+  So the lightbox is loaded from here and finds its own links in the page.
+  README.md is untouched by it, byte for byte, which is what keeps the repo
+  view and this site the same document.
+
+  relative_url, never a hardcoded /delpher-entities-workbench/: that prefix is
+  the repo name, and it disappears the day this moves to a custom domain.
+-->
+<link rel="stylesheet" href="{{ '/assets/css/lightbox.css' | relative_url }}?v={{ site.github.build_revision }}">
+<script src="{{ '/assets/js/lightbox.js' | relative_url }}?v={{ site.github.build_revision }}" defer></script>

@@ -1,0 +1,189 @@
+/* The screenshot lightbox on the GitHub Pages site.
+ *
+ * Loaded ONLY from _includes/head-custom.html, which is the single hook the
+ * Jekyll theme leaves in <head>. It is deliberately not reachable from
+ * README.md: GitHub's own markdown renderer ESCAPES a <style> block rather
+ * than dropping it, so the whole of this file would appear as visible text on
+ * the repo landing page.
+ *
+ * Colours are Delpher's own, the same ones the app samples off delpher.nl:
+ * navy #01415b, teal #00857b, coral #ef6079. */
+
+.lb {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  gap: 0;
+  background: rgba(1, 65, 91, 0.95);
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+  opacity: 1;
+  transition: opacity 120ms ease-out;
+  cursor: zoom-out;
+}
+
+/* GOTCHA #9, and this file would hit it too: a class rule that sets `display`
+ * beats the bare [hidden] rule, so `el.hidden = true` leaves the thing on
+ * screen. Every such class needs its own [hidden] companion. */
+.lb[hidden] { display: none; }
+.lb.is-fading { opacity: 0; }
+
+/* ---- the two bars ------------------------------------------------------- */
+
+.lb-bar {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 16px;
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 0.86rem;
+  line-height: 1.4;
+  cursor: default;
+}
+
+.lb-count {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}
+
+.lb-spacer { flex: 1 1 auto; }
+
+.lb-bar a,
+.lb-bar a:visited { color: rgba(255, 255, 255, 0.82); text-decoration: underline; }
+.lb-bar a:hover { color: #ffe066; }
+
+/* ---- the buttons -------------------------------------------------------- */
+
+/* GOTCHA, and this repo already has a name for it (the .insp-card trap): this
+ * selector is (0,1,1) -- one class AND one element name -- so it BEATS every
+ * plain .lb-close / .lb-nav rule below it, which are (0,1,0). Measured: the
+ * arrows rendered at the body font size on a transparent background and were
+ * all but invisible on the navy.
+ *
+ * So this rule sets only what nothing below it wants to change, and it says
+ * `font-family` rather than the `font` SHORTHAND -- which quietly resets
+ * font-size too, and was half the damage. Anything a specific button really
+ * must override is written `.lb button.lb-x`, never `.lb-x` alone. */
+.lb button {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.82);
+  font-family: inherit;
+  font-weight: 400;
+  cursor: pointer;
+  padding: 0;
+  border-radius: 6px;
+}
+
+.lb button:focus-visible {
+  outline: 2px solid #ffe066;
+  outline-offset: 3px;
+}
+
+.lb-close {
+  font-size: 1.5rem;
+  line-height: 1;
+  width: 34px;
+  height: 34px;
+}
+
+/* The app's own rule for a ✕: on hover only the INK turns coral -- no lifted
+ * background, no border. */
+.lb-close:hover { color: #ef6079; }
+
+/* Both class names, per the note above -- `background` is the property the
+ * generic rule already claims. */
+.lb button.lb-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 56px;
+  height: 96px;
+  font-size: 2.4rem;
+  line-height: 1;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.34);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  transition: background-color 120ms ease-out;
+}
+
+.lb button.lb-nav:hover {
+  background: rgba(0, 0, 0, 0.62);
+  border-color: rgba(255, 255, 255, 0.55);
+}
+
+.lb-prev { left: 10px; }
+.lb-next { right: 10px; }
+
+/* ---- the picture -------------------------------------------------------- */
+
+.lb-stage {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 0;          /* or a grid row refuses to shrink below its content */
+  padding: 0 76px;
+}
+
+.lb-img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  cursor: default;
+  background: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 3px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.45);
+}
+
+/* ---- the caption -------------------------------------------------------- */
+
+.lb-cap {
+  max-height: 23vh;
+  overflow-y: auto;
+  padding: 14px 22px 20px;
+  margin: 0 auto;
+  max-width: 62rem;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.92rem;
+  line-height: 1.55;
+  text-align: center;
+  cursor: default;
+}
+
+.lb-cap b { color: #fff; }
+
+.lb-cap code {
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 4px;
+  padding: 0.1em 0.4em;
+  font-size: 0.9em;
+}
+
+.lb-cap a,
+.lb-cap a:visited { color: #7fd8cf; }
+.lb-cap a:hover { color: #ffe066; }
+
+/* ---- small screens ------------------------------------------------------ */
+
+@media (max-width: 720px) {
+  .lb-stage { padding: 0 8px; }
+  /* A media query adds NO specificity, so this needs the same two class names
+   * as the rule it is narrowing -- written `.lb-nav` it silently loses to the
+   * desktop rule and the buttons stay 56px wide on a phone. */
+  .lb button.lb-nav { width: 40px; height: 72px; font-size: 1.7rem; }
+  .lb-prev { left: 2px; }
+  .lb-next { right: 2px; }
+  .lb-cap { max-height: 30vh; font-size: 0.86rem; padding: 10px 14px 16px; }
+  .lb-bar { padding: 8px 10px; font-size: 0.8rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lb { transition: none; }
+}

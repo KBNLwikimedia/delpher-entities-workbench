@@ -46,8 +46,8 @@ verbanden kan leggen die anders alleen een mens ziet.
 
 ## De Siboga-expeditie
 
-Het eerste project gaat over de **Siboga-expeditie**, de Nederlandse
-zeeonderzoeksexpeditie die in 1899 en 1900 door de Indonesische archipel voer.
+Het onderwerp is de **Siboga-expeditie**, de Nederlandse zeeonderzoeksexpeditie
+die in 1899 en 1900 door de Indonesische archipel voer.
 Wat die expeditie een goed onderwerp maakt, is dat haar opbrengst over heel
 verschillende soorten instellingen verspreid is geraakt. De verzamelde dieren en
 planten gingen in glazen potten en zinken kisten naar het Zoölogisch
@@ -80,6 +80,12 @@ te combineren met de specimens, de kaarten, de etnografica en de archiefstukken
 over dezelfde expeditie.
 
 ## Hoe werkt het?
+
+Je werkt per onderwerp, en zo'n onderwerp heet in de app een **project**: het
+heeft zijn eigen artikelen, zijn eigen lijst met namen en zijn eigen
+beslissingen, en niets daarvan loopt over naar een ander project. Zo kan de
+Siboga-expeditie naast een heel andere verzameling staan zonder dat ze elkaar
+in de weg zitten.
 
 Het begint met een zoekopdracht bij Delpher. Van elk artikel dat daaruit komt
 haalt de app de volledige tekst op, de scan van de krantenpagina waarop het

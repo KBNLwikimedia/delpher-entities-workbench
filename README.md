@@ -1,10 +1,9 @@
 # Delpher Entiteiten Workbench
 
-[![Open punten](https://img.shields.io/github/issues/KBNLwikimedia/delpher-entities-workbench?label=open%20punten&color=00857b)](https://github.com/KBNLwikimedia/delpher-entities-workbench/issues)
-[![Licentie](https://img.shields.io/github/license/KBNLwikimedia/delpher-entities-workbench?label=licentie&color=00857b)](LICENSE)
 [![Materiaal](https://img.shields.io/badge/materiaal-Delpher%20%2F%20KB-01415b)](https://www.delpher.nl)
 [![Gekoppeld aan](https://img.shields.io/badge/gekoppeld%20aan-Wikidata-990000)](https://www.wikidata.org)
 [![Gemaakt voor](https://img.shields.io/badge/gemaakt%20voor-HackaLOD%202026-b23a53)](https://netwerkdigitaalerfgoed.nl/hackalod/)
+[![Licentie](https://img.shields.io/github/license/KBNLwikimedia/delpher-entities-workbench?label=licentie&color=00857b)](LICENSE)
 
 <p align="center">
   <a href="https://www.delpher.nl" title="Delpher"><picture>
@@ -16,9 +15,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/media/kb-logo-dark.svg">
     <img src="assets/media/kb-logo.svg" alt="KB, nationale bibliotheek" height="46">
   </picture></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" height="52"></a>
 </p>
+
+<a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" align="right" width="200" hspace="16" vspace="6"></a>
 
 In oude krantenartikelen staan ontelbaar veel namen van 'dingen', denk
 bijvoorbeeld aan mensen, schepen, diersoorten, plaatsen en organisaties. Deze
@@ -70,7 +69,7 @@ willen we die bronnen aan elkaar knopen en er iets mee bouwen.
 
 ## Delpher als Linked Open Data
 
-<img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" align="right" width="200" hspace="16" vspace="6">
+<a href="https://lod-cloud.net/" title="Het LOD-cloud diagram op lod-cloud.net"><img src="assets/media/lod-cloud.png" alt="Het LOD-cloud diagram: honderden gekleurde bollen met lijnen ertussen" align="right" width="250" hspace="16" vspace="6"></a>
 
 Van al die bronnen leveren de krantenartikelen een eigen uitdaging op, want een
 krant is platte tekst: een naam erin is een rijtje letters en verder niets. Daar
@@ -245,6 +244,11 @@ ook al kun je de code waar hij over gaat nog niet inzien.
 
 ## Het materiaal
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/media/delpher-logo-dark.svg">
+  <img src="assets/media/delpher-logo.svg" alt="Delpher" align="right" width="200" hspace="16" vspace="6">
+</picture>
+
 De artikelteksten, de scans en de automatisch uitgelezen tekst komen van Delpher
 en de KB, en daarvoor gelden
 [de gebruiksvoorwaarden van Delpher zelf](https://www.delpher.nl/over-delpher/gebruiksvoorwaarden).
@@ -253,6 +257,11 @@ die eruit voortkomen worden gekoppeld aan Wikidata, dat onder CC0 valt en dus
 vrij te gebruiken is.
 
 ## Disclaimer
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/media/kb-logo-dark.svg">
+  <img src="assets/media/kb-logo.svg" alt="KB, nationale bibliotheek" align="right" width="190" hspace="16" vspace="6">
+</picture>
 
 Deze workbench is **geen officieel product en geen dienst van Delpher, van de
 KB, nationale bibliotheek van Nederland, of van Netwerk Digitaal Erfgoed.** Er
@@ -287,4 +296,4 @@ krantenmateriaal onder de voorwaarden van Delpher en de KB blijft vallen.
 ---
 
 <!-- LAATST-GEWIJZIGD -->
-<sub>Laatst bijgewerkt: 2026-08-11 · de afbeeldingen hierboven zijn van die datum.</sub>
+<sub>Laatst bijgewerkt: 11-08-2026

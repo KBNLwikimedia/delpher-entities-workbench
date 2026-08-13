@@ -18,115 +18,35 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.wikidata.org" title="Powered by Wikidata"><img src="assets/media/wikidata-stamp.png" alt="Powered by Wikidata" height="46"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://netwerkdigitaalerfgoed.nl/" title="Netwerk Digitaal Erfgoed"><img src="assets/media/nde-logo.png" alt="Netwerk Digitaal Erfgoed" height="56"></a>
 </p>
 
-In een oud krantenartikel staan veel namen van 'dingen': mensen, schepen,
-diersoorten, plaatsen, instituten en organisaties. De **Delpher Entiteiten
-Workbench** haalt die er automatisch uit en doet meteen een gok over wat elk
-ding zou kunnen zijn. Maar wat er werkelijk klopt bepaal jij. Je loopt die
-gokken na, verbetert wat ernaast zit, en koppelt ze waar dat kan aan
-[Wikidata](https://www.wikidata.org).
+In een oud krantenartikel staan veel namen van 'dingen': mensen, schepen, diersoorten, plaatsen, instituten en organisaties. De **Delpher Entiteiten Workbench** haalt die er automatisch uit en doet meteen een gok over wat elk ding zou kunnen zijn. Maar wat er werkelijk klopt bepaal jij. Je loopt die gokken na, verbetert wat ernaast zit, en koppelt ze waar dat kan aan [Wikidata](https://www.wikidata.org).
 
-De artikelen komen uit
-[Delpher](https://www.delpher.nl), waarin de
-[nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft
-gedigitaliseerd en doorzoekbaar gemaakt.
+De artikelen komen uit [Delpher](https://www.delpher.nl), waarin de [nationale bibliotheek van Nederland](https://www.kb.nl) miljoenen kranten heeft gedigitaliseerd en doorzoekbaar gemaakt.
 
 ## HackaLOD 2026
 
 <img src="assets/media/hackalod-logo.jpg" alt="HackaLOD 2026, Middelburg" align="right" width="210" hspace="16" vspace="6">
 
-Deze werkbank maak ik ter voorbereiding op
-[HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de
-Nederlandse hackathon over digitaal erfgoed die het
-[Netwerk Digitaal Erfgoed](https://nl.wikipedia.org/wiki/Netwerk_Digitaal_Erfgoed)
-elk jaar organiseert. De LOD in die naam staat voor
-**[Linked Open Data](https://nl.wikipedia.org/wiki/Linked_data)**, en daar
-draait het hele evenement om: erfgoedgegevens die niet alleen vrij te gebruiken
-zijn, maar die ook naar elkáár verwijzen. Het verschil zit hem in wat er precies
-wordt vastgelegd — niet "hier staat de tekst *Max Weber*", maar "hier wordt
-[díé Max Weber](https://nl.wikipedia.org/wiki/Max_Weber_%28zo%C3%B6loog%29) bedoeld,
-dezelfde als in dat andere bestand" — zodat een computer verbanden kan leggen
-die anders alleen een mens ziet.
-
-Ik doe er dit jaar aan mee in een team van zes, dat **De Wikimedianen** heet.
-Zelf ben ik [Olaf Janssen](https://www.kb.nl/over-ons/experts/olaf-janssen),
-Wikimedia-coördinator bij de KB, en ik neem namens de KB aan dat team deel.
+Deze werkbank gaat waarschijnlijk handig van pas komen bij de [HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg, de Nederlandse hackathon over digitaal erfgoed die het [Netwerk Digitaal Erfgoed](https://nl.wikipedia.org/wiki/Netwerk_Digitaal_Erfgoed) elk jaar organiseert. De LOD in die naam staat voor **[Linked Open Data](https://nl.wikipedia.org/wiki/Linked_data)**, en daar draait het hele evenement om: erfgoedgegevens die niet alleen vrij te gebruiken zijn, maar die ook naar elkáár verwijzen. Het verschil zit hem in wat er precies wordt vastgelegd — niet "hier staat de tekst *Max Weber*", maar "hier wordt [díé Max Weber](https://nl.wikipedia.org/wiki/Max_Weber_%28zo%C3%B6loog%29) bedoeld, dezelfde als in dat andere bestand", zodat een computer verbanden kan leggen die anders alleen een mens ziet.
 
 ## De Siboga-expeditie
 
 <img src="assets/media/siboga-expeditie-logo.jpg" alt="Hr.Ms. Siboga" align="right" width="280" hspace="16" vspace="6">
 
-Als onderwerp voor onze deelname hebben we de
-**[Siboga-expeditie](https://nl.wikipedia.org/wiki/Siboga-expeditie)** gekozen,
-een Nederlandse zeeonderzoeksexpeditie die in 1899 en 1900 door de Indonesische
-archipel voer. We kozen die juist omdat er zoveel vakgebieden tegelijk bij
-kwamen kijken: er voeren zoölogen, botanici, geologen en een
-[hydrograaf](https://nl.wikipedia.org/wiki/Hydrografie) mee, er werd onderweg
-[etnografisch](https://nl.wikipedia.org/wiki/Etnografie) materiaal verzameld, en
-er werd gepeild en in kaart gebracht.
+In de werkbank zijn op dit moment krantenartikelen over de **[Siboga-expeditie](https://nl.wikipedia.org/wiki/Siboga-expeditie)** geladen. Dit was een Nederlandse zeeonderzoeksexpeditie die in 1899 en 1900 door de Indonesische archipel voer. Ik heb deze expeditie gekozen omdat er zoveel vakgebieden tegelijk bij kwamen kijken: er voeren zoölogen, botanici, geologen en een [hydrograaf](https://nl.wikipedia.org/wiki/Hydrografie) mee, er werd onderweg [etnografisch](https://nl.wikipedia.org/wiki/Etnografie) materiaal verzameld, en er werd gepeild en in kaart gebracht.
 
-En daarom ligt de opbrengst nu zo verspreid. De verzamelde dieren en
-planten gingen in glazen potten en zinken kisten naar het Zoölogisch
-Laboratorium in Amsterdam, en de etnografica die onderweg zijn verworven
-bevinden zich in het
-[Koninklijk Instituut voor de Tropen](https://nl.wikipedia.org/wiki/Koninklijk_Instituut_voor_de_Tropen). Er kwamen 28
-detailkaarten van ankerplaatsen, zeestraten en eilandengroepen uit voort, twee
-zeekaarten met dieptemetingen, honderd hydrografische aantekeningen en een
-expeditiejournaal met 323 meetstations. De wetenschappelijke uitkomsten
-verschenen als 148 monografieën van 61 onderzoekers uit tien landen, waarvan de
-laatste pas in 1986 uitkwam — ruim tachtig jaar na thuiskomst. [Anna Weber-van Bosse](https://nl.wikipedia.org/wiki/Anna_Weber-van_Bosse),
-een van de drie vrouwen aan boord, schreef in 1904 haar eigen reisverslag
-*[Een jaar aan boord H.M. Siboga](https://resolver.kb.nl/resolve?urn=MMSFUBA02:000012938)*. En Nederland volgde het allemaal thuis in de krant — verslagen die je nu via
-Delpher kunt teruglezen.
-
-Al dat materiaal ligt dus bij andere instellingen, in andere systemen, en elk
-met een eigen manier om op te schrijven over wie of wat iets gaat. Tijdens het
-evenement willen we die bronnen aan elkaar knopen en er iets moois mee bouwen.
+En daarom ligt de opbrengst nu zo verspreid. De verzamelde dieren en planten gingen in glazen potten en zinken kisten naar het Zoölogisch Laboratorium in Amsterdam, en de etnografica die onderweg zijn verworven bevinden zich in het [Koninklijk Instituut voor de Tropen](https://nl.wikipedia.org/wiki/Koninklijk_Instituut_voor_de_Tropen). Er kwamen 28 detailkaarten van ankerplaatsen, zeestraten en eilandengroepen uit voort, twee zeekaarten met dieptemetingen, honderd hydrografische aantekeningen en een expeditiejournaal met 323 meetstations. De wetenschappelijke uitkomsten verschenen als 148 monografieën van 61 onderzoekers uit tien landen, waarvan de laatste pas in 1986 uitkwam — ruim tachtig jaar na thuiskomst. [Anna Weber-van Bosse](https://nl.wikipedia.org/wiki/Anna_Weber-van_Bosse), een van de drie vrouwen aan boord, schreef in 1904 haar eigen reisverslag *[Een jaar aan boord H.M. Siboga](https://resolver.kb.nl/resolve?urn=MMSFUBA02:000012938)*. En Nederland volgde het allemaal thuis in de krant — verslagen die je nu via Delpher kunt teruglezen. Al dat materiaal ligt dus bij andere instellingen, in andere systemen, en elk met een eigen manier om op te schrijven over wie of wat iets gaat. 
 
 ## Delpher als Linked Open Data
 
 <a href="https://lod-cloud.net/" title="Het LOD-cloud diagram op lod-cloud.net"><img src="assets/media/lod-cloud.png" alt="Het LOD-cloud diagram: honderden gekleurde bollen met lijnen ertussen" align="right" width="250" hspace="16" vspace="6"></a>
 
-Van al die bronnen leveren de krantenartikelen een eigen uitdaging op, want een
-krant is platte tekst: een naam erin is een rijtje letters en verder niets. Daar
-is deze werkbank de voorbereiding op. Door zo'n naam te koppelen aan een item in
-[Wikidata](https://www.wikidata.org) — en Wikidata is zelf Linked Open Data —
-wordt dat rijtje letters een verwijzing die andere collecties óók begrijpen. Zo
-worden de Delpher-artikelen onderdeel van de **[Linked Open Data cloud](https://lod-cloud.net/)** — alle
-verzamelingen ter wereld die op die manier naar elkaar verwijzen, en waarin
-Wikidata een veelgebruikt ankerpunt is. Daarmee zijn ze op de hackathon gewoon
-te combineren met de specimens, de kaarten, de etnografica en de archiefstukken
-over dezelfde expeditie.
+Van al die bronnen leveren de krantenartikelen een eigen uitdaging op, want een krant is platte tekst: een naam erin is een rijtje letters en verder niets. Daar is deze werkbank de voorbereiding op. Door zo'n naam te koppelen aan een item in [Wikidata](https://www.wikidata.org) - en Wikidata is zelf Linked Open Data - wordt dat rijtje letters een verwijzing die andere collecties óók begrijpen. Zo worden de Delpher-artikelen onderdeel van de **[Linked Open Data cloud](https://lod-cloud.net/)**, alle verzamelingen ter wereld die op die manier naar elkaar verwijzen, en waarin Wikidata een veelgebruikt ankerpunt is. Daarmee zijn ze op de hackathon gewoon te combineren met de specimens, de kaarten, de etnografica en de archiefstukken over dezelfde expeditie.
 
 ## Hoe werkt het?
 
-Het begint met een zoekopdracht bij Delpher. Van elk artikel dat daaruit komt
-haalt de app de volledige tekst op, de scan van de krantenpagina waarop het
-stond, en de plaats van ieder woord op die scan. Vervolgens gaat hij in die
-tekst op zoek naar namen, en daarmee is het automatische deel afgelopen. De rest
-doe jij: in de werkbank loop je de gevonden namen langs en bevestig je wat
-klopt, verbeter of hernoem je wat ernaast zit, voeg je samen wat hetzelfde
-blijkt te zijn en splits je wat toch twee verschillende dingen waren. En als je
-zeker weet over wie of wat het gaat, leg je zelf de koppeling met Wikidata,
-waarbij de app je alleen helpt met zoeken. Alles wat je beslist wordt
-opgeschreven en gedateerd, en je kunt het later altijd weer intrekken.
-
-<!--
-De links in de galerij wijzen naar raw.githubusercontent.com, zodat een klik het
-plaatje zelf oplevert en niet GitHubs bestandspagina. Ze dragen GEEN
-target="_blank": GitHub filtert dat attribuut weg (nagemeten tegen zijn eigen
-/markdown-API, die ook rel naar nofollow herschrijft), dus het zou een nieuw
-tabblad beloven dat er niet komt.
-
-Op de GitHub Pages-site (kbnlwikimedia.github.io/delpher-entities-workbench)
-opent een klik het plaatje juist OVER de pagina heen, in een lichtbak. Die wordt
-geladen vanuit _includes/head-custom.html en zoekt zijn eigen links op; er staat
-met opzet niets voor in dit bestand. Een <script> of <style> hier zou door
-GitHub niet weggegooid maar ZICHTBAAR gemaakt worden, en dan stond de hele
-broncode als tekst op deze pagina.
--->
+Het begint met een zoekopdracht bij Delpher. Van elk artikel dat daaruit komt haalt de app de volledige tekst op, de scan van de krantenpagina waarop het stond, en de plaats van ieder woord op die scan. Vervolgens gaat hij in die tekst op zoek naar namen, en daarmee is het automatische deel afgelopen. De rest doe jij: in de werkbank loop je de gevonden namen langs en bevestig je wat klopt, verbeter of hernoem je wat ernaast zit, voeg je samen wat hetzelfde blijkt te zijn en splits je wat toch twee verschillende dingen waren. En als je zeker weet over wie of wat het gaat, leg je zelf de koppeling met Wikidata, waarbij de app je alleen helpt met zoeken. Alles wat je beslist wordt opgeschreven en gedateerd, en je kunt het later altijd weer intrekken.
 
 ## Zo ziet het eruit
 
@@ -242,17 +162,12 @@ Deze workbench is geen product van Delpher of van de KB, hoe vaak hun beeldmerke
 
 ## Waar de code staat
 
-Voorlopig niet hier. Het is gereedschap voor onderzoek, nog volop in de maak, en
-het draait op één computer — samen met alle krantenartikelen die er inmiddels in
-zitten en alle beslissingen die daarover genomen zijn. Of de code openbaar
-wordt, zie ik later wel.
+Voorlopig niet hier. Het is gereedschap voor onderzoek, nog volop in de maak, en het draait nu alleen nog op mijn laptop, samen met alle krantenartikelen die er inmiddels in zitten en alle beslissingen die daarover genomen zijn. Of de code openbaar wordt, zie ik later wel.
 
 ## Waar deze repo dan wél voor is
 
-Dit is het meldpunt. Fouten, wensen en open vragen worden verzameld bij
-[Issues](https://github.com/KBNLwikimedia/delpher-entities-workbench/issues), en
-dat is op dit moment het hele doel van deze repo. Een melding is dus welkom,
-ook al kun je de code waar hij over gaat nog niet inzien.
+Dit is het meldpunt. Fouten, wensen en open vragen worden verzameld bij [Issues](https://github.com/KBNLwikimedia/delpher-entities-workbench/issues), en
+dat is op dit moment het hele doel van deze repo. Een melding is dus welkom, ook al kun je de code waar hij over gaat nog niet inzien.
 
 ## Het materiaal
 
@@ -261,12 +176,7 @@ ook al kun je de code waar hij over gaat nog niet inzien.
   <img src="assets/media/delpher-logo.svg" alt="Delpher" align="right" width="200" hspace="16" vspace="6">
 </picture>
 
-De artikelteksten, de scans en de automatisch uitgelezen tekst komen van Delpher
-en de KB, en daarvoor gelden
-[de gebruiksvoorwaarden van Delpher zelf](https://www.delpher.nl/over-delpher/gebruiksvoorwaarden).
-Op de afbeeldingen hierboven zie je dat materiaal in die context terug. De namen
-die eruit komen koppelen we aan Wikidata, en dat is CC0: vrij te gebruiken door
-iedereen.
+De artikelteksten, de scans en de automatisch uitgelezen tekst komen van Delpher en de KB, en daarvoor gelden [de gebruiksvoorwaarden van Delpher zelf](https://www.delpher.nl/over-delpher/gebruiksvoorwaarden). Op de afbeeldingen hierboven zie je dat materiaal in die context terug. De namen die eruit komen koppelen we aan Wikidata, en dat is CC0: vrij te gebruiken door iedereen.
 
 ## Disclaimer
 
@@ -275,47 +185,27 @@ iedereen.
   <img src="assets/media/kb-logo.svg" alt="KB, nationale bibliotheek" align="right" width="190" hspace="16" vspace="6">
 </picture>
 
-Deze workbench is **geen officieel product en geen dienst van Delpher, van de
-KB, nationale bibliotheek van Nederland, of van Netwerk Digitaal Erfgoed.** Er
-is geen samenwerking met deze organisaties en zij hebben zich er niet over
-uitgesproken. Hun namen en beeldmerken staan hier alleen om te vermelden waar
-het krantenmateriaal vandaan komt.
+Deze workbench is **geen officieel product en geen dienst van Delpher, van de KB, nationale bibliotheek van Nederland, of van Netwerk Digitaal Erfgoed.** Er is geen samenwerking met deze organisaties en zij hebben zich er niet over uitgesproken. Hun namen en beeldmerken staan hier alleen om te vermelden waar het krantenmateriaal vandaan komt.
 
-Het is een experiment, gemaakt ter lering en vermaak in het kader van de
-[HackaLOD 2026](https://netwerkdigitaalerfgoed.nl/hackalod/) in Middelburg.
+Het is een experiment:
 
-- **Geen garanties.** De app wordt geleverd zoals hij is. Over juistheid,
-  volledigheid, actualiteit en beschikbaarheid wordt niets beloofd.
-- **Geen rechten.** Aan de getoonde namen, koppelingen en aantallen kunnen geen
-  rechten worden ontleend. De namen worden automatisch herkend en dat gaat
-  geregeld mis; waar een mens ze heeft nagekeken is dat de opvatting van die
-  persoon.
-- **Geen ondersteuning.** Er is geen helpdesk, geen toezegging over onderhoud,
-  en geen garantie dat deze app er morgen nog is.
-- **Geen aansprakelijkheid.** De maker aanvaardt geen aansprakelijkheid voor
-  schade die voortkomt uit het gebruik van deze app of van de gegevens erin.
-- **Het bronmateriaal.** De krantenartikelen komen van Delpher en blijven
-  vallen onder
-  [de gebruiksvoorwaarden van Delpher](https://www.delpher.nl/over-delpher/gebruiksvoorwaarden).
-  Het zijn historische teksten: ze bevatten woorden en opvattingen die vandaag
-  als kwetsend of onjuist gelden, en er is niets aan gekuist.
+- **Geen garanties.** De app wordt geleverd zoals hij is. Over juistheid, volledigheid, actualiteit en beschikbaarheid wordt niets beloofd.
+- **Geen rechten.** Aan de getoonde namen, koppelingen en aantallen kunnen geen rechten worden ontleend. De namen worden automatisch herkend en dat gaat geregeld mis; waar een mens ze heeft nagekeken is dat de opvatting van die persoon.
+- **Geen ondersteuning.** Er is geen helpdesk, geen toezegging over onderhoud, en geen garantie dat deze app er morgen nog is.
+- **Geen aansprakelijkheid.** De maker aanvaardt geen aansprakelijkheid voor schade die voortkomt uit het gebruik van deze app of van de gegevens erin.
+- **Het bronmateriaal.** De krantenartikelen komen van Delpher en blijven vallen onder [de gebruiksvoorwaarden van Delpher](https://www.delpher.nl/over-delpher/gebruiksvoorwaarden). Het zijn historische teksten: ze bevatten woorden en opvattingen die vandaag als kwetsend of onjuist gelden, en er is niets aan gekuist.
 
 ## Licentie
 
-De code valt onder de voorwaarden in [LICENSE](LICENSE), terwijl het opgehaalde
-krantenmateriaal onder de voorwaarden van Delpher en de KB blijft vallen.
+De code valt onder de voorwaarden in [LICENSE](LICENSE), terwijl het opgehaalde krantenmateriaal onder de voorwaarden van Delpher en de KB blijft vallen.
 
 ## Wie dit maakt
 
 <a href="https://www.kb.nl/over-ons/experts/olaf-janssen" title="Olaf Janssen op kb.nl"><img src="assets/media/olaf-janssen.jpg" alt="Portretfoto van Olaf Janssen" align="right" width="130" hspace="16" vspace="6"></a>
 
-Deze workbench is gebouwd door
-[Olaf Janssen](https://www.kb.nl/over-ons/experts/olaf-janssen),
-Wikimedia-coördinator bij de KB, nationale bibliotheek van Nederland. Het is
-werk in eigen beheer, gemaakt ter voorbereiding op HackaLOD 2026 — zie de
-[disclaimer](#disclaimer) hierboven voor wat dat wel en niet betekent.
+Deze workbench is gebouwd door [Olaf Janssen](https://www.kb.nl/over-ons/experts/olaf-janssen), Wikimedia-coördinator bij de KB, nationale bibliotheek van Nederland. Het is werk in eigen beheer, zie de [disclaimer](#disclaimer) hierboven voor wat dat wel en niet betekent.
 
 ---
 
 <!-- LAATST-GEWIJZIGD -->
-<sub>Laatst bijgewerkt: 2026-08-11 · de afbeeldingen hierboven zijn van die datum.</sub>
+<sub>Laatst bijgewerkt: 2026-08-13</sub>
